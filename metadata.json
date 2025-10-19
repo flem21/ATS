@@ -1,0 +1,5 @@
+{
+  "name": "Gemini ATS Tracker",
+  "description": "An AI-powered Applicant Tracking System (ATS) to streamline your hiring workflow. It features a drag-and-drop Kanban board to manage candidates through various pipeline stages and uses Gemini to provide AI-driven insights like resume summaries and interview question generation.",
+  "requestFramePermissions": []
+}
